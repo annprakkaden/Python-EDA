@@ -1,6 +1,6 @@
 # Python-EDA
 A comprehensive overview of the project 
-
+Insights
 The analysis revealed that the majority of employees are concentrated in the Sales team, indicating its significance within the organization. The distribution of positions highlighted that Sales Representatives dominate, suggesting a strong focus on sales roles. The predominant age group is between 30 and 40 years, which may reflect the company's recruitment strategy targeting experienced professionals. Additionally, the Finance team showed the highest salary expenditure, emphasizing the value placed on financial expertise. Lastly, a positive correlation between age and salary was observed, suggesting that as employees gain experience, their compensation tends to increase.
 
 The results obtained are:
