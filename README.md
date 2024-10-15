@@ -28,14 +28,19 @@ Preprocessing is a crucial step in any data analysis project. It ensures that th
 
 Analysis Tasks Explanation
 The analysis tasks aim to derive meaningful insights from the employee dataset, focusing on various aspects such as employee distribution, salary expenditure, and correlations between variables.
+
 Distribution of Employees Across Teams: Understand how employees are distributed among different teams.
 Calculate the count of employees in each team. Determine the percentage of employees in each team relative to the total number of employees. A clear overview of team sizes, which can inform resource allocation and management decisions is obtained.
+
 Segregation of Employees by Position: Analyze the workforce composition based on employee positions within the company.
 Count the number of employees in each position category. Insights into the structure of the organization and potential areas for recruitment or reorganization can be gained.
+
 Predominant Age Group Among Employees: Identify which age group is most represented in the employee dataset.
 Create age bins (e.g., 20-30, 31-40) and count the number of employees in each age group.This helps understanding the demographic makeup of the workforce, which can assist in planning training and development programs.
+
 Team and Position with Highest Salary Expenditure: Pinpoint where the highest salary expenditures occur within the company.
 Group the dataset by team and position, then sum the salaries for each group. Identify the team and position with the maximum total salary.This can highlight areas where salary costs are concentrated, providing insights for budget management and financial planning.
+
 Correlation Between Age and Salary: Investigate whether there is a relationship between employee age and salary.
 Calculate the correlation coefficient between the age and salary columns. Visualize this relationship using a scatter plot to better understand any trends. Helps identifying potential patterns (e.g., do older employees tend to earn more?) can inform HR policies and compensation strategies.
 
@@ -66,16 +71,12 @@ Description: A grouped bar chart that displays total salary expenditure by team 
 Correlation Between Age and Salary
 Visualization Type: Scatter Plot
 Description: A scatter plot with age on the x-axis and salary on the y-axis, showing individual employee data points. A trend line can be added to illustrate the correlation. The scatter function is used to create a scatter plot. This visual representation helps to quickly identify any relationship between age and salary.
-Summary
+
+
 Each visualization serves to enhance understanding of the data and findings. By using clear and appropriate graphical representations, stakeholders can quickly grasp key insights, trends, and patterns that inform strategic decisions within the company. These visualizations not only make the data more accessible but also support effective communication of the analysis results.
 
 Overall,The analysis reveals key insights into employee distribution, highlighting potential staffing imbalances and indicating strategic focus areas, while the correlation between age and salary suggests that experience influences compensation. It highlights key trends in workforce distribution, demographics, and compensation. These insights can help management make data-driven decisions to enhance employee satisfaction, optimize resource allocation, and ensure financial sustainability. By understanding these patterns, the company is better positioned to foster a productive and motivated workforce.
-The results obtained are:
-1. Total employees: 458. The largest team is New Orleans Pelicans with 19 members, constituting 4.15% of the workforce.
-2. The most common position is SG with 102 employees.
-3. The predominant age group is (20, 30] with 346 employees.
-4. The team with the highest salary expenditure is Cleveland Cavaliers and the position with the highest salary is C.
-5. The correlation between age and salary is 0.21, indicating a moderate positive relationship.
+
 
 
 
